@@ -1,2 +1,3 @@
 # Automatic-reference
 Automatic reference
+利用python在谷歌学术爬取文献的引用格式和bib格式
